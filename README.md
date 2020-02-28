@@ -1,6 +1,6 @@
 ## Predict Gender
 **Author**: Abhishek Padghane<br><br>
-This project demostrate how machine learning model is deployed in production. I am demostrating **ML procedure** as well as deployement procedure using **Django** backend.<br>
+This project demostrate how machine learning model is deployed in production. I am demostrating **ML procedure** as well as deployement procedure using **Django** backend.<br><br>
 **Step 1**: Install python from [link](https://www.python.org/downloads/), while installing click **'Add python to path'**<br><br>
 **Step 2**: Run **'pip install virtualenv'** in terminal<br><br>
 **Step 3**: Make a folder anywhere you like, name it 'Gender'<br><br>
